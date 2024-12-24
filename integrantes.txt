@@ -1,0 +1,9 @@
+Practica1 Vue3
+
+Nombre(s) de integrante(s):
+- Iurii Chernichenko
+11246228
+
+Pasos para iniciar el proyecto
+ 1) npm install
+ 2) npm run serve
